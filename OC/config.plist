@@ -18,9 +18,9 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>SSDT-ALS0.aml</string>
+				<string>SSDT-PLUG.aml</string>
 				<key>Path</key>
-				<string>SSDT-ALS0.aml</string>
+				<string>SSDT-PLUG.aml</string>
 			</dict>
 			<dict>
 				<key>Enabled</key>
@@ -34,9 +34,9 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>SSDT-PLUG.aml</string>
+				<string>SSDT-GPI0.aml</string>
 				<key>Path</key>
-				<string>SSDT-PLUG.aml</string>
+				<string>SSDT-GPI0.aml</string>
 			</dict>
 			<dict>
 				<key>Enabled</key>
@@ -45,6 +45,14 @@
 				<string>SSDT-PMC.aml</string>
 				<key>Path</key>
 				<string>SSDT-PMC.aml</string>
+			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>SSDT-ALS0.aml</string>
+				<key>Path</key>
+				<string>SSDT-ALS0.aml</string>
 			</dict>
 			<dict>
 				<key>Enabled</key>
