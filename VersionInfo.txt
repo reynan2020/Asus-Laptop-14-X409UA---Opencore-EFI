@@ -1,0 +1,2 @@
+OPENCORE 0.6.1 by Acidanthera
+EFI20200824 by reynan2020
